@@ -21,14 +21,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/express-js.png"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
 </p>
 
 ---
-
-
 
 <!---
 Bhavik9696/Bhavik9696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
